@@ -8,13 +8,13 @@ Add a new bookmark, and use the code below as the URL.
 
 ## Code
 
-```
+```js
 (javascript:void function(){(function(){var e,o=document.querySelectorAll("body *");for(e=0;e<o.length;e++){var t=getComputedStyle(o[e]).position;("fixed"===t||"sticky"===t)%26%26o[e].parentNode.removeChild(o[e])}})()}();
 ```
 
 ## Formatted javascript
 
-```lang=js
+```js
 (function () {
   var i, elements = document.querySelectorAll('body *');
 
