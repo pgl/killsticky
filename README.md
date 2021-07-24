@@ -29,6 +29,5 @@ Add a new bookmark, and use the code below as the URL.
 
 ## Files
 
-
-* [killsticky.js]
-* [killsticky.min.js]
+* [killsticky.js](killsticky.js)
+* [killsticky.min.js](killsticky.min.js)
